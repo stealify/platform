@@ -1,2 +1,2 @@
-# platform
+# [@stealify/platform](https://platform.stealify.github.dspeed.eu)
 Offers mainly platform components for other platforms like Windows, MacOS, Android ....
